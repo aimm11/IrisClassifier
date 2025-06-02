@@ -1,4 +1,6 @@
+assalamualaikum
 streamlit
 pandas
 scikit-learn
 matplotlib
+numpy
