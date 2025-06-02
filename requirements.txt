@@ -1,4 +1,3 @@
-assalamualaikum
 streamlit
 pandas
 scikit-learn
